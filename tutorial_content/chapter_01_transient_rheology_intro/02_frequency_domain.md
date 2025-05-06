@@ -1,4 +1,4 @@
-# Phenomelogical Models in the Frequency Domain
+# the frequency domain
 
 Attenuation... 
 

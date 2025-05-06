@@ -1,5 +1,7 @@
 # The Phenomenal Phenomenological Models 
 
+Up until this point, we've been talking in very general terms -- the creep function describes the time dependent response to deformation, but how do we **calculate** it? In defomration experiments, researchers do stuff... 
+
 
 
 ## Maxwell Model
