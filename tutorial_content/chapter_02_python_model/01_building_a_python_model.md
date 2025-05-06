@@ -1,4 +1,4 @@
-# Building a Python class inheritance model for the phenomenological models 
+# An object-oriented model for the phenomenological models 
 
 The form of the base creep function lends itself well to an object-oriented design. 
 In this chapter, we'll identify the common characteristics of the various 
