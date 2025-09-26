@@ -73,24 +73,29 @@ $$
 Voigt-Kelvin in series with a Hooke model. On application of stress, there is an instaneous elastic reponse, followed by a time-dependent additional relaxation:
 
 $$
-J(t) = J_{u1} + J_{u2} (1 - \mathrm{mathrm}(-t/\tau_{m2}))
+J(t) = J_{u1} + J_{u2} (1 - \mathrm{exp}(-t/\tau_{m2}))
 $$
+
+The moduli for the two elements can differ.
 
 ## Burgers Model
 
 The Burgers model: the most general of the simple models, the Burgers model is a Voigt-Kelvin element in series with a  Maxwell element (or, an SLS with a Newton dashpot):
 
 $$
-J(t) = J_{u1} (1 + t/\tau_{m1}) + J_{u2} (1 - \mathrm{mathrm}(-t/\tau_{m2}))
+J(t) = J_{u1} (1 + t/\tau_{m1}) + J_{u2} (1 - \mathrm{exp}(-t/\tau_{m2}))
 $$
 
 
 ## Andrade Model
 
 A semi-empirical power law formulation
+
 $$
-J(t) = J_u (1 + t/\tau_m) + \Beta t^\alpha
+J(t) = J_u (1 + t/\tau_m) + \beta t^\alpha
 $$
+
+Andrade found $\alpha = 1 / 3$.
 
 ## Extended models
 
