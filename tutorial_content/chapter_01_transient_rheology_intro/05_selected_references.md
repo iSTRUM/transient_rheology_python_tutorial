@@ -18,7 +18,8 @@ The following textbooks are excellent resources for comprehensive treatments of 
 * Nowick, A. S. and Berry, B.S. (1972). Anelastic relaxation in crystalline solids. Elsevier. ISBN: 978-0-12-522650-9
 DOI: 10.1016/B978-0-12-522650-9.X5001-0 [link](https://www.sciencedirect.com/book/9780125226509/anelastic-relaxation-in-crystalline-solids).
 
-Finally, want to check some orginal resources? These are available online with some searching:
+Finally, want to check some primary resources? These are available online (with variable levels of searching...) and are enjoyable reads.
 
-* Zener, C. (1948). Elasticity and Anelasticity of Metals. University of Chicago Press. Part 2 Section 5 in particular (FORMAL THEORY OF ANELASTICITY). A fun read!
+* Zener, C. (1948). Elasticity and Anelasticity of Metals. University of Chicago Press. Part 2 Section 5 in particular (FORMAL THEORY OF ANELASTICITY).
+* Andrade, E. N. D. C. (1910). On the viscous flow in metals, and allied phenomena. Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character, 84(567), 1-12. https://royalsocietypublishing.org/doi/10.1098/rspa.1910.0050
 
