@@ -1,4 +1,37 @@
-# the time domain 
+# Viscoelasticity and Creep in the time domain 
+
+In this section, we introduce the basics of time dependent creep. Response of a material to applied stress: 
+
+Pure elastic response is described by Hooke's law, with a strain $\varepsilon$ proportional to stress $\sigma$: 
+
+$$
+\varepsilon = \sigma / M
+$$
+
+where $M$ is the material's modulus. For a constant stress, $\sigma_o$, the response is effectively instantaneous and the strain is simply 
+
+$$
+\varepsilon = \sigma_o / M
+$$
+
+For a purely viscous fluid, the strain rate is proportional to stress: 
+
+$$
+\dot{\varepsilon} = \sigma / \eta
+$$
+
+where $\eta$ is the fluid's viscosity. For a constant stress with no initial strain, integrating $\dot{\varepsilon}$: 
+
+
+$$
+\varepsilon = \sigma_o t / \eta
+$$
+
+In linear viscoelasticity, we can add viscous and elastic responses to create the simplest viscoelastic solid, a Maxwell solid: 
+
+$$
+\varepsilon = \sigma_o t / \eta + \sigma_o / M
+$$
 
 The modulus, $M(t)$, describes the response of a rock to an applied stress. In the purely elastic 
 case, the modulus is anologous to the spring constant of a spring: given an applied stress, a spring stretches 
@@ -36,7 +69,7 @@ $$
 J(t) = J_u \left (1 + \Gamma'(t) + \frac{t}{\tau_m} \right)
 $$
 
-For 
+or 
 
 $$
 J(t) / J_u = \left (1 + \Gamma'(t) + \frac{t}{\tau_m} \right)
